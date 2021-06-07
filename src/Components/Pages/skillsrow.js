@@ -9,7 +9,6 @@ function Skills() {
                     <span class="bg-info">Skills</span>
                 </h2>
 
-                <hr>
                     <p>
                         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
                             <i class="devicon-html5-plain-wordmark colored" style="font-size: 4rem;"></i>
@@ -41,11 +40,7 @@ function Skills() {
 
                     </p>
             </section>
-            </section>
-        </section >
-
-
-
-
+            </>
+        
     )
 }

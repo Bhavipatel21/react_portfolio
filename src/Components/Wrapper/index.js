@@ -1,11 +1,14 @@
 import React from 'react'
+import "../styles/wrapper.css";
 
 function Wrapper (props) {
     return (
         <>
-         <main className="container-fluid flex-fill">
+        <body style={StyleSheet.Image}>
+         <main className="container-fluid flex-fill" style={StyleSheet.Wrapper}>
            {props.children}
        </main>
+       </body>
         </>
     )
 }

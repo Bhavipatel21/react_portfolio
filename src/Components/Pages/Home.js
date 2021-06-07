@@ -59,7 +59,7 @@ function Home() {
                 <p>My primary objective is to learn how the web applications are
                 built so I can become a more well rounded tester.</p>
               </p>
-              <Skills/>
+           
             </section>
           </section>
 
