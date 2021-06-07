@@ -2,7 +2,7 @@ import React from "react";
 import Wrapper from "../Wrapper";
 import image from "./profile-pic.jpg";
 import "../styles/home.css";
-import Skills from "../Skills/index";
+
 
 
 
