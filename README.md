@@ -31,11 +31,10 @@ The following image shows the web application's appearance and functionality:
 
 ## Helpful Links
 
-* [Bootstrap Official Docs](https://getbootstrap.com/)
-* [Bootstrap Components](https://getbootstrap.com/docs/4.3/components/alerts/)
-* [GitHub Pages](https://pages.github.com/)
-* [Fontawesome](https://fontawesome.com/)
-* [devicon](https://github.com/devicons/devicon)
+* [Node](https://nodejs.org/en/)
+* [REACT](https://reactjs.org/)
+* [Bootstrap REACT ](https://react-bootstrap.github.io/getting-started/introduction/)
+* [Fontawesome With REACT](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react)
 
 
 ## Test Cases 
