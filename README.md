@@ -25,8 +25,8 @@ The following image shows the web application's appearance and functionality:
 
 
 ![aboutme](/aboutme_01.png)
-![aboutme](./assets/portfolio_02.png)
-![aboutme](./assets/contact_03.png)
+![aboutme](/portfolio_02.png)
+![aboutme](/contact_03.png)
 
 
 ## Helpful Links
