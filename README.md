@@ -24,7 +24,7 @@ Navigate to url : https://intense-earth-81221.herokuapp.com/
 The following image shows the web application's appearance and functionality:
 
 
-![aboutme](./assets/aboutme_01.png)
+![aboutme](/aboutme_01.png)
 ![aboutme](./assets/portfolio_02.png)
 ![aboutme](./assets/contact_03.png)
 
